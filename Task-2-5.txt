@@ -1,0 +1,13 @@
+The machine accepts tokens worth 4 and 7. A positive integer is
+entered - the ticket price. Decide whether that exact total can be
+made with the tokens. If it can, print two integers separated by a
+space: how many 4-tokens and how many 7-tokens. If it cannot,
+print "NO". The total number of tokens must be minimal among all
+valid combinations.
+
+Автомат принимает жетоны номиналом 4 и 7. Вводится целое
+положительное число - цена билета. Определи, можно ли
+набрать ровно эту сумму жетонами. Если можно, выведи два
+числа через пробел: количество жетонов по 4 и по 7. Если
+нельзя, выведи «NO». Общее количество жетонов должно быть
+минимально возможным.
